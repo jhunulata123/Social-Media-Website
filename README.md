@@ -7,6 +7,7 @@ The website is built using HTML, CSS, and JavaScript Technologies,
 
 # Functionality
 The website includes the following functionality:
+->https://aquamarine-mochi-1e6242.netlify.app/
 
 ## Home page
 The Home page selected by default.
