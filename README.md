@@ -4,11 +4,10 @@ Additionally, the website allows users to customize the appearance of their prof
 
 # Technologies Used
 The website is built using HTML, CSS, and JavaScript Technologies,
+#### The application will now be acessible at ->https://aquamarine-mochi-1e6242.netlify.app/
 
 # Functionality
 The website includes the following functionality:
-->https://aquamarine-mochi-1e6242.netlify.app/
-
 ## Home page
 The Home page selected by default.
 ![page1](https://user-images.githubusercontent.com/120890878/229287388-a51c6b63-880b-40cf-8abf-c77c86c8c9a4.png)
